@@ -6,8 +6,9 @@
     <img src="./logo.png" alt="Logo" width="500" height="100">
   </a>
   <p> Aspiring CyberSecurity  </p>
-</div>
 
+
+</div>
 
 
 <br />
@@ -63,10 +64,7 @@ Specializing in Information Technology CyberSecurity
 
 
 
-:bank: Database
-
-[![MySQL][Mysql.com]][Mysql-url] 
-
+><img src="https://wakatime.com/share/@8a4344d8-d020-4065-83a2-c103e04a6752/7006a811-4000-44af-bfa0-49578dfa38af.png" />
 
 *
 ---
