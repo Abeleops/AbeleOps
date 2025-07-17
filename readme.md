@@ -75,7 +75,7 @@ Specializing in Information Technology CyberSecurity
 ```json
 [
   {
-    "type": "One Big Wash Inventory System",
+    "type": " Inventory System",
     "description": "A comprehensive inventory management system built with Python featuring complete CRUD operations, sales tracking, and data import/export capabilities.",
     "features": [
       "User Authentication System",
