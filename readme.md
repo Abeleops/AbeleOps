@@ -23,7 +23,7 @@
 </p>
 
 
-![](https://komarev.com/ghpvc/?username=zyx-0314)
+![](https://wakatime.com/badge/github/Abeleops/github.svg)
 
 
 **:eyes: Bio_Data.yml:**
