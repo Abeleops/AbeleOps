@@ -23,8 +23,7 @@
 </p>
 
 
-![](https://wakatime.com/badge/github/Abeleops/github.svg)
-
+<figure><embed src="https://wakatime.com/share/@8a4344d8-d020-4065-83a2-c103e04a6752/425ea7ae-1db9-4df2-a14d-ffc7d559698a.svg"></embed></figure>
 
 **:eyes: Bio_Data.yml:**
 
