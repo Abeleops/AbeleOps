@@ -77,16 +77,20 @@ Specializing in Information Technology CyberSecurity
 ```json
 [
   {
-    "type": "Invetory System",
-    "description": "This project will be my foundation understanding in making Invetory sytem in ",
+    "type": "One Big Wash Inventory System",
+    "description": "A comprehensive inventory management system built with Python featuring complete CRUD operations, sales tracking, and data import/export capabilities.",
     "features": [
-      "UI/UX.",
-      "Responsive.",
-      "Add Delete Save Search Data", 
-      "Import/Export data to/from Excel "
+      "User Authentication System",
+      "Real-time Inventory Management (Add, Update, Delete, Search)",
+      "Sales Tracking & History",
+      "Auto-save & Data Backup",
+      "Excel Import/Export Functionality",
+      "Email Notifications for Low Stock",
+      "Visual Stock Level Indicators",
+      "JSON Data Storage"
     ],
-    "tech": ["Python, MySQL"],
-    "remarks": "made this for fun ."
+    "tech": ["Python", "Tkinter", "JSON", "Excel Integration", "Email SMTP"],
+    "remarks": "Full-featured inventory system with GUI interface and automated features."
   }
 ]
 
