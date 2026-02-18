@@ -17,9 +17,7 @@
 
 
 </a>
-<a href="https://www.facebook.com/abelejohn.juarez.7/">
-  <img alt="Abele John V. Juarez Facebook" width="30px" src="./facebook.png" />
-</a>
+
 <br />
 </p>
 
