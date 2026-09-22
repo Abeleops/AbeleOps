@@ -52,6 +52,7 @@ Specializing in Information Technology CyberSecurity
 [![C++][cpp.com]][cpp-url] 
 
 [![HTML][HTML.com]][HTML-url] [![CSS][CSS.com]][CSS-url] [![Javascript][Javascript.com]][NextJS-url] 
+[![MySQL][MySQL.com]
 
 [![TailwindCSS][TailwindCSS.com]][TailwindCSS-url]  [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 
