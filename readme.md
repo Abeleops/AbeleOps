@@ -29,18 +29,12 @@
 name: Abele John V. Juarez
 Born in: Philippines
 Currently Residing in: Philippines
-Educational Status: 1nd Year Student in FEU Instuture of Technology
+Educational Status: 3rd Year Student in FEU Instuture of Technology
 Specializing in Information Technology CyberSecurity
 ```
 ```
 
-**:screwdriver:Technical_Background.json**
-```json
-{
-  "Web-Dev": [
-    "Front-End Development"
-  ]
-}
+
 ```
 
 **:computer: Languages & Tools:**
